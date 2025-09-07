@@ -1,0 +1,21 @@
+#ESP -IDF Build artifacts
+build/
+sdkconfig.old
+.vscode/settings.json
+#development files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+#os generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+#IDE file 
+.vscode/launch.json
+.vscode/tasks.json
